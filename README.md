@@ -53,11 +53,8 @@ Rock_Paper_Scissors__Game/
 
 ## 📸 Screenshot
 
-Add a screenshot of your project here.
-
-```markdown
 ![Game Screenshot](screenshots/game_pic.png)
-```
+
 
 ## 🔧 Installation
 
